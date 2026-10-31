@@ -7,7 +7,7 @@ Among expert-panel-reviewed germline MYH7 variant records associated with hypert
 - Pandas: Calculate averages, compare scores, identify missing data, and examine patterns.
 - Matplotlib: Create graphs showing the distribution of predictor scores.
 - Basic statistics: Investigate whether variants classified as pathogenic tend to have different scores from benign variants.
-## 4)How we build the project
+## 4)How to build the project
 1.	Understand the dataset-
 Learn what ClinVar contains, what each column represents, and how variants are identified.
 2.	Download a small real dataset-
