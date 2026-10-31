@@ -8,4 +8,4 @@ print(hcm_df.shape)
 ```
 
 
-Filtered the dataset to extract the 137 HCM-associated variants into a separate DataFrame (`hcm_df`). The next stage will involve importing the filtered data into an SQLite database for structured querying and further analysis.
+Filtered the dataset to extract the 137 HCM-associated variants into a separate DataFrame (`hcm_df`). 
