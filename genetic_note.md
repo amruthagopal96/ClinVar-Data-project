@@ -16,4 +16,10 @@ Three possible classifications
 ## ClinVar
 A database containing genetic variants and their reported clinical interpretations.
 For example, it can tell you whether a particular BRCA1 variant has been classified as pathogenic, benign, or uncertain.
+##  what is MYH7?
+The MYH7 gene provides instructions for making a protein called beta-myosin heavy chain, which helps heart muscle contract.
+Some disease-associated variants in MYH7 are linked to inherited heart conditions, including:
+- Hypertrophic cardiomyopathy (HCM): the heart muscle becomes abnormally thick.
+-	Dilated cardiomyopathy (DCM): the heart's pumping chamber can enlarge and weaken.
+
 
