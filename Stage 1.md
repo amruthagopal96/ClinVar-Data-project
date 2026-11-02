@@ -6,6 +6,6 @@ hcm_df = df[df["Condition(s)"] == "Hypertrophic cardiomyopathy"]
 
 print(hcm_df.shape)
 ```
-
+out put:(137, 18)
 
 Filtered the dataset to extract the 137 HCM-associated variants into a separate DataFrame (`hcm_df`). 
