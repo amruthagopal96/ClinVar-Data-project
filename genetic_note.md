@@ -22,4 +22,12 @@ Some disease associated variants in MYH7 are linked to inherited heart condition
 - Hypertrophic cardiomyopathy (HCM): the heart muscle becomes abnormally thick.
 -	Dilated cardiomyopathy (DCM): the heart's pumping chamber can enlarge and weaken.
 
+### What is MHRT
+Official Symbol MHRT(myosin heavy chain associated RNA transcript)
+Also known as My heart
+
+Summary- This gene encodes a spliced long non-coding RNA that may act as a cardioprotective agent in the heart. Based on a study of a similar gene in mouse, the encoded transcript may regulate chromatin remodelling by acting as a decoy to the BRG1 chromatin repressor complex thus preventing it from binding to its genomic targets. Blocking the actions of BRG1 could be crucial in protecting the heart from pathological hypertrophy. [provided by RefSeq, Dec 2014]
+
+
+
 
