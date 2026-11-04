@@ -41,3 +41,10 @@ Querying distinct values in the Gene(s) attribute revealed multiple compound ide
 
 Across the entire dataset, 27 variants carry a definitive Pathogenic classification, with the overwhelming majority (23 of 27, or ~85.2%) localized directly to MYH7, underscoring its established role as a primary genetic driver in hypertrophic cardiomyopathy. Furthermore, Variants of Uncertain Significance (VUS) constitute nearly a third of both the general cohort ($n=39$) and the MYH7 subset ($n=33$), highlighting the ongoing clinical necessity for functional validation, expert re-evaluation, and domain-specific molecular consequence mapping
 
+ ### What can we observe?
+
+-	23 of the 27 Pathogenic records in the complete dataset belong to MYH7.
+-	33 MYH7 records have Uncertain significance.
+-	MYH7 contains variants across all five classification categories.
+
+
